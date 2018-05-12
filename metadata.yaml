@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41238'
     url: http://www.gutenberg.org/2009/agents/41238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41560#The-Playground-of-Satan
 gutenberg_issued: '2012-12-04'
 gutenberg_type: Text
 identifiers:
