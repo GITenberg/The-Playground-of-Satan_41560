@@ -1,0 +1,25 @@
+_repo: The-Playground-of-Satan_41560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41560-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Baskerville, Beatrice C.
+    gutenberg_agent_id: '41238'
+    url: http://www.gutenberg.org/2009/agents/41238
+description: ''
+gutenberg_issued: '2012-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41560'
+  lccn: '19003703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: The Playground of Satan
+url: http://www.gutenberg.org/ebooks/41560
